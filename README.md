@@ -32,7 +32,7 @@ ECommerce-Olist-Sales/
 ├── Olist_Products_Dataset.csv             # Dataset
 ├── Olist_Sellers_Dataset.csv              # Dataset
 ├── csv_to_sql.ipynb                       # For setting up connectivity
-├── ECommerce-Olist-Sales.ipynb            # Jupyter Notebook with analysis & charts
+├── E-Commerce-Olist-Sales.ipynb            # Jupyter Notebook with analysis & charts
 └── README.md                              # Project documentation
 
 ```
